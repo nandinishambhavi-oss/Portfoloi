@@ -5,7 +5,8 @@
 *.jpeg binary
 *.gif binary
 
+*.html text eol=lf
 *.md text eol=lf
 *.yml text eol=lf
-*.scss text eol=lf
-Gemfile text eol=lf
+*.css text eol=lf
+*.js text eol=lf
